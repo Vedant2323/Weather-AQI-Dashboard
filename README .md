@@ -82,7 +82,7 @@ To scale this idea and eliminate manual effort, I shifted focus to building a da
 ## 👨‍💻 Author
 
 **Vedant Agrawal**  
-[LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/vedant-agrawal23/) 
 
 ---
 
