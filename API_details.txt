@@ -1,0 +1,26 @@
+
+# API_details.txt
+
+## Weather and Air Quality API Details
+
+### Source
+- API Provider: AccuWeather (or OpenWeatherMap, based on the actual service used)
+- Access: Requires API key (generated after signing up)
+- Endpoint Example:
+  - `https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=City_Name`
+  - `https://api.weatherapi.com/v1/airquality.json?key=YOUR_API_KEY&q=City_Name`
+
+### Parameters Fetched
+- Temperature (°C)
+- Humidity (%)
+- UV Index
+- Wind Speed
+- PM2.5
+- CO (Carbon Monoxide)
+- NO2 (Nitrogen Dioxide)
+- O3 (Ozone)
+
+### Notes
+- The API returns nested JSON format.
+- Power Query in Power BI was used to parse and transform the data.
+- API is refreshed periodically using scheduled refresh in Power BI Service.
